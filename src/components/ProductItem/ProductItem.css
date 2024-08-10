@@ -1,3 +1,11 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ADD8E6; /* Светло-синий цвет рамки */
+    padding: 15px;
+    width: 170px;
+}
+
 .img {
     width: 100%;
     background: #ADD8E6; /* Светло-синий цвет фона */
