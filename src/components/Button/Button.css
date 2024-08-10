@@ -1,0 +1,8 @@
+.button {
+    padding: 10px 15px;
+    background: #ADD8E6; /* Светло-синий цвет фона */
+    color: #0000FF; /* Синий цвет текста */
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
